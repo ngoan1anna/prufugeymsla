@@ -1,6 +1,6 @@
 # prufugeymsla
 
-## Hér get ég sett inn einhverja lýsingu
+## Hér get ég sett inn einhverja lýsingu á geymslunni
 
 ### lol
 
